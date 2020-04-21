@@ -1,2 +1,2 @@
-# Curiosity
-RaspTank Control Library
+# curiosity
+RaspTank programming library
